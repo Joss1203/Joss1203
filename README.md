@@ -1,30 +1,33 @@
-<h1 align="center">👾 Hi, I'm Jocelyn</h1>
+<!-- ====================================================== -->
+<!--                    JOSS1203 PROFILE                     -->
+<!-- ====================================================== -->
 
-<h3 align="center">
-  Software Developer • Web Development • Creative Coding
-</h3>
+<div align="center">
 
-<p align="center">
-  Building things, breaking things, fixing things.
-</p>
+# 👾 JOSS1203
+
+### Software Developer · Web Developer · Creative Coding
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B875E5&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Jocelyn+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Building+Web+Experiences+%F0%9F%8C%90;Always+Learning+Something+New+%E2%9C%A8;PLAYER+ONE+READY+%F0%9F%8E%AE"
+  alt="Typing SVG"
+/>
+
+<br>
+
+`CODE` • `CREATE` • `LEARN` • `REPEAT`
+
+</div>
 
 ---
 
-## 👾 PAC-MAN Contribution Graph
+<!-- ================= PLAYER PROFILE ================= -->
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph.svg"
-    >
-    <img
-      alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph.svg"
-    >
-  </picture>
-</p>
+<h2 align="center">👾 PLAYER PROFILE</h2>
+
+```text
+PLAYER       Jocelyn
+CLASS        Software Developer
+LOCATION     Mexico 🇲🇽
+STATUS       ● ONLINE
+MISSION      Build • Learn • Create
