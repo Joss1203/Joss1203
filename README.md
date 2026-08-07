@@ -1,10 +1,8 @@
-<!-- ====================================================== -->
-<!--                    JOSS1203 PROFILE                     -->
-<!-- ====================================================== -->
+
 
 <div align="center">
 
-# 👾 JOSS1203
+#  JOSS1203
 
 ### Software Developer · Web Developer · Creative Coding
 
@@ -21,13 +19,27 @@
 
 ---
 
-<!-- ================= PLAYER PROFILE ================= -->
+<h2 align="center">👾 ARCADE ACTIVITY</h2>
 
-<h2 align="center">👾 PLAYER PROFILE</h2>
+<p align="center">
+  <i>Every contribution gives Player 01 more XP.</i>
+</p>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph-dark.svg"
+  alt="Pac-Man contribution graph"
+/>
+
+</div>
+
+<h2 align="center"> PROFILE</h2>
 
 ```text
 PLAYER       Jocelyn
-CLASS        Software Developer
+
 LOCATION     Mexico 🇲🇽
 STATUS       ● ONLINE
 MISSION      Build • Learn • Create
+
