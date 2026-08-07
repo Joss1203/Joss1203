@@ -1,0 +1,178 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="0.5" stop-color="#0A0D14"/>
+      <stop offset="1" stop-color="#05070D"/>
+    </linearGradient>
+
+    <filter id="glowPurple">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowYellow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+
+  <!-- BORDER -->
+  <rect
+    x="3"
+    y="3"
+    width="1194"
+    height="354"
+    rx="25"
+    stroke="#B875E5"
+    stroke-width="3"
+    opacity="0.7"
+  >
+    <animate
+      attributeName="opacity"
+      values="0.35;0.9;0.35"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- TOP TERMINAL TEXT -->
+  <text
+    x="55"
+    y="55"
+    fill="#B875E5"
+    font-size="22"
+    font-family="monospace"
+  >
+    &gt; PLAYER_PROFILE.EXE
+  </text>
+
+  <!-- MAIN TITLE -->
+  <text
+    x="600"
+    y="145"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-size="64"
+    font-weight="700"
+    font-family="Arial, Helvetica, sans-serif"
+    letter-spacing="10"
+  >
+    JOSS1203
+  </text>
+
+  <!-- SUBTITLE -->
+  <text
+    x="600"
+    y="195"
+    text-anchor="middle"
+    fill="#B875E5"
+    font-size="24"
+    font-family="monospace"
+  >
+    SOFTWARE DEVELOPER
+  </text>
+
+  <!-- TYPING TEXT -->
+  <text
+    x="600"
+    y="240"
+    text-anchor="middle"
+    fill="#D9D9D9"
+    font-size="19"
+    font-family="monospace"
+  >
+    &gt; PLAYER ONE READY_
+    <animate
+      attributeName="opacity"
+      values="1;1;0;1"
+      dur="1.2s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- PACMAN -->
+  <g transform="translate(230 295)" filter="url(#glowYellow)">
+    <path
+      d="M0 -18
+         A18 18 0 1 0 0 18
+         L18 0
+         Z"
+      fill="#FFD84D"
+    >
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;540 0;0 0"
+        dur="7s"
+        repeatCount="indefinite"
+      />
+    </path>
+  </g>
+
+  <!-- DOTS -->
+  <g fill="#D8C0F2">
+    <circle cx="310" cy="295" r="4"/>
+    <circle cx="355" cy="295" r="4"/>
+    <circle cx="400" cy="295" r="4"/>
+    <circle cx="445" cy="295" r="4"/>
+    <circle cx="490" cy="295" r="4"/>
+    <circle cx="535" cy="295" r="4"/>
+    <circle cx="580" cy="295" r="4"/>
+    <circle cx="625" cy="295" r="4"/>
+    <circle cx="670" cy="295" r="4"/>
+    <circle cx="715" cy="295" r="4"/>
+    <circle cx="760" cy="295" r="4"/>
+  </g>
+
+  <!-- GHOST -->
+  <g transform="translate(835 276)" filter="url(#glowPurple)">
+    <path
+      d="M0 18
+         V0
+         C0 -22 36 -22 36 0
+         V28
+         L27 20
+         L18 28
+         L9 20
+         L0 28
+         Z"
+      fill="#B875E5"
+    />
+    <circle cx="11" cy="4" r="4" fill="#FFFFFF"/>
+    <circle cx="25" cy="4" r="4" fill="#FFFFFF"/>
+    <circle cx="12" cy="5" r="2" fill="#111827"/>
+    <circle cx="26" cy="5" r="2" fill="#111827"/>
+  </g>
+
+  <!-- STATUS -->
+  <circle cx="1030" cy="55" r="7" fill="#49E27D">
+    <animate
+      attributeName="opacity"
+      values="1;0.3;1"
+      dur="1.5s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <text
+    x="1047"
+    y="62"
+    fill="#AAB2C0"
+    font-size="17"
+    font-family="monospace"
+  >
+    ONLINE
+  </text>
+
+</svg>
