@@ -1,42 +1,104 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Joss1203 Header" width="100%" />
-</p>
+<div align="center">
 
+### 👾 PLAYER 01 — JOCELYN
+
+**Backend Development · Artificial Intelligence · Networks · Software Testing**
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B875E5&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Jocelyn+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Building+Web+Experiences+%F0%9F%8C%90;Always+Learning+Something+New+%E2%9C%A8;PLAYER+ONE+READY+%F0%9F%8E%AE"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=B875E5&center=true&vCenter=true&width=750&lines=Backend+Development+%F0%9F%96%A5%EF%B8%8F;Artificial+Intelligence+%F0%9F%A4%96;Networks+%26+Systems+%F0%9F%8C%90;Software+Testing+%26+Debugging+%F0%9F%90%9B;Finding+bugs+before+they+find+you+%F0%9F%91%BE"
+  alt="Typing animation"
 />
-
-<br>
-
-`CODE` • `CREATE` • `LEARN` • `REPEAT`
 
 </div>
 
 ---
 
-
-
-<p align="center">
-  <i>Every contribution gives Player 01 more XP.</i>
-</p>
+<h2 align="center">👾 PLAYER PROFILE</h2>
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph-dark.svg"
-  alt="Pac-Man contribution graph"
-/>
+I enjoy understanding how systems work behind the scenes.
+
+My main interests are **Backend Development, Artificial Intelligence,
+Computer Networks and Software Testing**.
+
+🐛 I especially enjoy **finding bugs, analyzing unexpected behavior
+and figuring out why software fails**.
+
+🤖 Exploring Machine Learning and AI with **Python, TensorFlow and NumPy**.
+
+🌐 Interested in how applications, servers and networks communicate.
 
 </div>
 
-<h2 align="center"> PROFILE</h2>
+---
 
-```text
-PLAYER       Jocelyn
+<h2 align="center">🎯 AREAS OF INTEREST</h2>
 
-LOCATION     Mexico 🇲🇽
-STATUS       ● ONLINE
-MISSION      Build • Learn • Create
+<p align="center">
+  🖥️ Backend Development
+  &nbsp; • &nbsp;
+  🤖 Artificial Intelligence
+  &nbsp; • &nbsp;
+  🌐 Networks
+  &nbsp; • &nbsp;
+  🐛 Debugging
+  &nbsp; • &nbsp;
+  🧪 Software Testing
+</p>
 
+---
+
+<h2 align="center">💻 TECH STACK</h2>
+
+<h3 align="center">⚔️ Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts&theme=dark" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,react&theme=dark" />
+</p>
+
+<h3 align="center">🤖 AI & Data</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+</p>
+
+<p align="center">
+  Python • TensorFlow • NumPy • Jupyter Notebook • Google Colab
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
+</p>
+
+<h3 align="center">🛠️ Development & DevOps</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode&theme=dark" />
+</p>
+
+<h3 align="center">🧪 Testing & Debugging</h3>
+
+<p align="center">
+  🐛 Bug Detection
+  &nbsp; • &nbsp;
+  🔎 Debugging
+  &nbsp; • &nbsp;
+  🧪 Software Testing
+  &nbsp; • &nbsp;
+  📋 Error Analysis
+</p>
+
+<h3 align="center">🖥️ Systems & Productivity</h3>
+
+<p align="center">
+  Windows • macOS • Microsoft Word • Excel • PowerPoint
+</p>
