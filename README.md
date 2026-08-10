@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👾 PLAYER 01 — JOCELYN
+### JOCELYN
 
 **Backend Development · Artificial Intelligence · Networks · Software Testing**
 
@@ -11,29 +11,46 @@
 
 </div>
 
----
 
-<h2 align="center">👾 PLAYER PROFILE</h2>
+
+<h2 align="center"> PLAYER PROFILE</h2>
 
 <div align="center">
 
-I enjoy understanding how systems work behind the scenes.
+### Hi, I'm Jocelyn 
 
-My main interests are **Backend Development, Artificial Intelligence,
-Computer Networks and Software Testing**.
+I'm a software developer interested in understanding  
+**how systems work behind the scenes.**
 
-🐛 I especially enjoy **finding bugs, analyzing unexpected behavior
-and figuring out why software fails**.
+Backend Development &nbsp; • &nbsp;
+ Artificial Intelligence &nbsp; • &nbsp;
+ Networks & Systems
 
-🤖 Exploring Machine Learning and AI with **Python, TensorFlow and NumPy**.
+ Software Testing &nbsp; • &nbsp;
+ Debugging & Error Analysis
 
-🌐 Interested in how applications, servers and networks communicate.
+
 
 </div>
 
+<h2 align="center"> PLAYER SPECIALIZATION</h2>
+
+<div align="center">
+
+| AREA | STATUS |
+| :---: | :---: |
+| Debugging & Bug Detection | ⭐ PRIMARY INTEREST |
+| Backend Development | 🟣 LEVELING UP |
+| Networks & Systems | 🟣 LEVELING UP |
+| Artificial Intelligence | 🟣 LEVELING UP |
+| Software Testing | 🟢 ACTIVE |
+
+</div>
+
+
 ---
 
-<h2 align="center">🎯 AREAS OF INTEREST</h2>
+<h2 align="center"> AREAS OF INTEREST</h2>
 
 <p align="center">
   🖥️ Backend Development
