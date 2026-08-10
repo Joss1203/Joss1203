@@ -92,7 +92,7 @@
     font-size="19"
     font-family="monospace"
   >
-    &gt; PLAYER ONE READY_
+    &gt; FIND THE BUG. UNDERSTAND THE SYSTEM._
     <animate
       attributeName="opacity"
       values="1;1;0;1"
