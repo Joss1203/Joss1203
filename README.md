@@ -51,21 +51,22 @@ Backend Development &nbsp; • &nbsp;
 ---
 
 
-<h2 align="center">💻 TECH ARSENAL</h2>
 
-<h3 align="center">⚔️ Programming Languages</h3>
+<h2 align="center"> TECH ARSENAL</h2>
+
+<h3 align="center"> Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,html,php&theme=dark" />
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center"> Web Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,js,ts,react,php&theme=dark" />
 </p>
 
-<h3 align="center">🤖 AI & Machine Learning</h3>
+<h3 align="center"> AI & Machine Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
@@ -78,7 +79,7 @@ Backend Development &nbsp; • &nbsp;
   <b>scikit-learn</b>
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center"> Databases</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark" />
@@ -88,7 +89,7 @@ Backend Development &nbsp; • &nbsp;
   MongoDB • SQLite • MySQL • phpMyAdmin
 </p>
 
-<h3 align="center">🔀 Version Control & DevOps</h3>
+<h3 align="center"> Version Control & DevOps</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,azure&theme=dark" />
@@ -98,7 +99,7 @@ Backend Development &nbsp; • &nbsp;
   Git • GitHub • Branching • Merge • Conflict Resolution
 </p>
 
-<h3 align="center">🛠️ Development Tools</h3>
+<h3 align="center"> Development Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=dark" />
@@ -109,86 +110,7 @@ Backend Development &nbsp; • &nbsp;
   Jupyter Notebook • Google Colab • GitHub Copilot
 </p>
 
-<h3 align="center">🧪 Testing & Debugging</h3>
-
-<p align="center">
-
-`🐛 Bug Detection`
-`🔎 Debugging`
-`🧪 Software Testing`
-`📋 Error Analysis`
-
-</p>
-
-<h3 align="center">💻 Systems & Productivity</h3>
-
-<p align="center">
-  Windows • macOS
-  <br><br>
-  Word • Excel • PowerPoint
-</p>
-
-
-
-<h2 align="center">💻 TECH ARSENAL</h2>
-
-<h3 align="center">⚔️ Programming Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,html,php&theme=dark" />
-</p>
-
-<h3 align="center">🌐 Web Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,ts,react,php&theme=dark" />
-</p>
-
-<h3 align="center">🤖 AI & Machine Learning</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-</p>
-
-<p align="center">
-  <b>NumPy</b> •
-  <b>Keras</b> •
-  <b>TensorFlow</b> •
-  <b>scikit-learn</b>
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark" />
-</p>
-
-<p align="center">
-  MongoDB • SQLite • MySQL • phpMyAdmin
-</p>
-
-<h3 align="center">🔀 Version Control & DevOps</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure&theme=dark" />
-</p>
-
-<p align="center">
-  Git • GitHub • Branching • Merge • Conflict Resolution
-</p>
-
-<h3 align="center">🛠️ Development Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=dark" />
-</p>
-
-<p align="center">
-  Visual Studio Code • Visual Studio • Android Studio<br>
-  Jupyter Notebook • Google Colab • GitHub Copilot
-</p>
-
-<h3 align="center">🧪 Testing & Debugging</h3>
+<h3 align="center"> Testing & Debugging</h3>
 
 <p align="center">
 
@@ -212,7 +134,7 @@ Backend Development &nbsp; • &nbsp;
 ---
 
 
-<h2 align="center">📊 PLAYER STATS</h2>
+<h2 align="center"> PLAYER STATS</h2>
 
 <div align="center">
 
