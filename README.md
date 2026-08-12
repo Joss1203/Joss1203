@@ -50,72 +50,220 @@ Backend Development &nbsp; • &nbsp;
 
 ---
 
-<h2 align="center"> AREAS OF INTEREST</h2>
 
-<p align="center">
-  🖥️ Backend Development
-  &nbsp; • &nbsp;
-  🤖 Artificial Intelligence
-  &nbsp; • &nbsp;
-  🌐 Networks
-  &nbsp; • &nbsp;
-  🐛 Debugging
-  &nbsp; • &nbsp;
-  🧪 Software Testing
-</p>
-
----
-
-<h2 align="center">💻 TECH STACK</h2>
+<h2 align="center">💻 TECH ARSENAL</h2>
 
 <h3 align="center">⚔️ Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,html,php&theme=dark" />
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,php&theme=dark" />
 </p>
 
-<h3 align="center">🤖 AI & Data</h3>
+<h3 align="center">🤖 AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 </p>
 
 <p align="center">
-  Python • TensorFlow • NumPy • Jupyter Notebook • Google Colab
+  <b>NumPy</b> •
+  <b>Keras</b> •
+  <b>TensorFlow</b> •
+  <b>scikit-learn</b>
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark" />
 </p>
 
-<h3 align="center">🛠️ Development & DevOps</h3>
+<p align="center">
+  MongoDB • SQLite • MySQL • phpMyAdmin
+</p>
+
+<h3 align="center">🔀 Version Control & DevOps</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure&theme=dark" />
+</p>
+
+<p align="center">
+  Git • GitHub • Branching • Merge • Conflict Resolution
+</p>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=dark" />
+</p>
+
+<p align="center">
+  Visual Studio Code • Visual Studio • Android Studio<br>
+  Jupyter Notebook • Google Colab • GitHub Copilot
 </p>
 
 <h3 align="center">🧪 Testing & Debugging</h3>
 
 <p align="center">
-  🐛 Bug Detection
-  &nbsp; • &nbsp;
-  🔎 Debugging
-  &nbsp; • &nbsp;
-  🧪 Software Testing
-  &nbsp; • &nbsp;
-  📋 Error Analysis
+
+`🐛 Bug Detection`
+`🔎 Debugging`
+`🧪 Software Testing`
+`📋 Error Analysis`
+
 </p>
 
-<h3 align="center">🖥️ Systems & Productivity</h3>
+<h3 align="center">💻 Systems & Productivity</h3>
 
 <p align="center">
-  Windows • macOS • Microsoft Word • Excel • PowerPoint
+  Windows • macOS
+  <br><br>
+  Word • Excel • PowerPoint
+</p>
+
+
+
+<h2 align="center">💻 TECH ARSENAL</h2>
+
+<h3 align="center">⚔️ Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,html,php&theme=dark" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,php&theme=dark" />
+</p>
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+</p>
+
+<p align="center">
+  <b>NumPy</b> •
+  <b>Keras</b> •
+  <b>TensorFlow</b> •
+  <b>scikit-learn</b>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  MongoDB • SQLite • MySQL • phpMyAdmin
+</p>
+
+<h3 align="center">🔀 Version Control & DevOps</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure&theme=dark" />
+</p>
+
+<p align="center">
+  Git • GitHub • Branching • Merge • Conflict Resolution
+</p>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=dark" />
+</p>
+
+<p align="center">
+  Visual Studio Code • Visual Studio • Android Studio<br>
+  Jupyter Notebook • Google Colab • GitHub Copilot
+</p>
+
+<h3 align="center">🧪 Testing & Debugging</h3>
+
+<p align="center">
+
+`🐛 Bug Detection`
+`🔎 Debugging`
+`🧪 Software Testing`
+`📋 Error Analysis`
+
+</p>
+
+<h3 align="center">💻 Systems & Productivity</h3>
+
+<p align="center">
+  Windows • macOS
+  <br><br>
+  Word • Excel • PowerPoint
+</p>
+
+
+
+---
+
+
+<h2 align="center">📊 PLAYER STATS</h2>
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Joss1203&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"
+/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joss1203&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Joss1203&theme=midnight-purple&hide_border=true&background=00000000"
+/>
+
+</div>
+
+
+<h2 align="center">CONTRIBUTION ARCADE</h2>
+
+<p align="center">
+  <b>PLAYER 01 — JOSS1203</b>
+  <br>
+  <i>Collecting commits one dot at a time...</i>
+</p>
+
+
+<h2 align="center">💬 RANDOM DEV QUOTE</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
+
+<h2 align="center">🌐 CONNECT WITH PLAYER 01</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jocelyn-lucia-amador-mart%C3%ADnez-b9a73a31a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jocelyn%20Amador-B875E5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Joss1203">
+  <img src="https://img.shields.io/badge/GitHub-Joss1203-B875E5?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
