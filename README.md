@@ -11,29 +11,33 @@
 
 </div>
 
+---
 
-
-<h2 align="center"> PLAYER PROFILE</h2>
+<h2 align="center">PLAYER PROFILE</h2>
 
 <div align="center">
 
-### Hi, I'm Jocelyn 
+### Hi, I'm Jocelyn 👋
 
 I'm a software developer interested in understanding  
 **how systems work behind the scenes.**
 
 Backend Development &nbsp; • &nbsp;
- Artificial Intelligence &nbsp; • &nbsp;
- Networks & Systems
+Artificial Intelligence &nbsp; • &nbsp;
+Networks & Systems
 
- Software Testing &nbsp; • &nbsp;
- Debugging & Error Analysis
+Software Testing &nbsp; • &nbsp;
+Debugging & Error Analysis
 
+<br>
 
+**Find the bug. Understand the system. Build it better.**
 
 </div>
 
-<h2 align="center"> PLAYER SPECIALIZATION</h2>
+---
+
+<h2 align="center">PLAYER SPECIALIZATION</h2>
 
 <div align="center">
 
@@ -47,26 +51,23 @@ Backend Development &nbsp; • &nbsp;
 
 </div>
 
-
 ---
 
+<h2 align="center">TECH ARSENAL</h2>
 
-
-<h2 align="center"> TECH ARSENAL</h2>
-
-<h3 align="center"> Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,html,php&theme=dark" />
 </p>
 
-<h3 align="center"> Web Development</h3>
+<h3 align="center">Web Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,js,ts,react,php&theme=dark" />
 </p>
 
-<h3 align="center"> AI & Machine Learning</h3>
+<h3 align="center">AI & Machine Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
@@ -79,7 +80,7 @@ Backend Development &nbsp; • &nbsp;
   <b>scikit-learn</b>
 </p>
 
-<h3 align="center"> Databases</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark" />
@@ -89,7 +90,7 @@ Backend Development &nbsp; • &nbsp;
   MongoDB • SQLite • MySQL • phpMyAdmin
 </p>
 
-<h3 align="center"> Version Control & DevOps</h3>
+<h3 align="center">Version Control & DevOps</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,azure&theme=dark" />
@@ -99,7 +100,7 @@ Backend Development &nbsp; • &nbsp;
   Git • GitHub • Branching • Merge • Conflict Resolution
 </p>
 
-<h3 align="center"> Development Tools</h3>
+<h3 align="center">Development Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio&theme=dark" />
@@ -110,7 +111,7 @@ Backend Development &nbsp; • &nbsp;
   Jupyter Notebook • Google Colab • GitHub Copilot
 </p>
 
-<h3 align="center"> Testing & Debugging</h3>
+<h3 align="center">Testing & Debugging</h3>
 
 <p align="center">
 
@@ -121,7 +122,7 @@ Backend Development &nbsp; • &nbsp;
 
 </p>
 
-<h3 align="center">💻 Systems & Productivity</h3>
+<h3 align="center">Systems & Productivity</h3>
 
 <p align="center">
   Windows • macOS
@@ -129,37 +130,61 @@ Backend Development &nbsp; • &nbsp;
   Word • Excel • PowerPoint
 </p>
 
+---
 
+<h2 align="center">🎮 FEATURED QUESTS</h2>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### ✈️ Águilas Aztecas
+
+Collaborative frontend project.
+
+**React · JavaScript**
+
+<a href="https://github.com/BrandonCastilloHDS/P-ginaAguilasAztecas">
+VIEW PROJECT
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 💜 Vital
+
+Application developed using TypeScript.
+
+**TypeScript**
+
+<a href="https://github.com/Joss1203/Vital">
+VIEW PROJECT
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌶️ Detector de Picante
+
+Software project developed with TypeScript.
+
+**TypeScript**
+
+<a href="https://github.com/Joss1203/detector-de-picante">
+VIEW PROJECT
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-
-<h2 align="center"> PLAYER STATS</h2>
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Joss1203&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"
-/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joss1203&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Joss1203&theme=midnight-purple&hide_border=true&background=00000000"
-/>
-
-</div>
-
-
-<h2 align="center">CONTRIBUTION ARCADE</h2>
+<h2 align="center">👾 CONTRIBUTION ARCADE</h2>
 
 <p align="center">
   <b>PLAYER 01 — JOSS1203</b>
@@ -167,14 +192,47 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Joss1203&theme=midni
   <i>Collecting commits one dot at a time...</i>
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Joss1203/Joss1203/output/pacman-contribution-graph.svg"
+      width="100%"
+    >
+  </picture>
+</p>
+
+---
+
+<h2 align="center">📊 PLAYER STATS</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Joss1203&theme=midnight-purple&hide_border=true&background=00000000"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 <h2 align="center">💬 RANDOM DEV QUOTE</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Random Dev Quote"
+  />
 </p>
 
-
+---
 
 <h2 align="center">🌐 CONNECT WITH PLAYER 01</h2>
 
@@ -189,3 +247,15 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Joss1203&theme=midni
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### 👾 INSERT COIN TO CONTINUE
+
+**PLAYER 01 — JOSS1203**
+
+`SYSTEM STATUS: ONLINE`
+
+</div>
