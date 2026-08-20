@@ -1,39 +1,77 @@
 <div align="center">
 
-### JOCELYN
+# 👾 JOCELYN
 
-**Backend Development · Artificial Intelligence · Networks · Software Testing**
+### `PLAYER 01 // SOFTWARE DEVELOPER`
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=B875E5&center=true&vCenter=true&width=750&lines=Backend+Development+%F0%9F%96%A5%EF%B8%8F;Artificial+Intelligence+%F0%9F%A4%96;Networks+%26+Systems+%F0%9F%8C%90;Software+Testing+%26+Debugging+%F0%9F%90%9B;Finding+bugs+before+they+find+you+%F0%9F%91%BE"
-  alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=B875E5&center=true&vCenter=true&width=850&lines=%3E+Backend+Development_;%3E+Artificial+Intelligence_;%3E+Networks+%26+Systems_;%3E+Software+Testing+%26+Debugging_;%3E+Finding+bugs+before+they+find+me..._"
+  alt="Typing Animation"
 />
+
+<br>
+
+<img src="https://img.shields.io/badge/BACKEND-B875E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=tensorflow&logoColor=B875E5">
+<img src="https://img.shields.io/badge/NETWORKS-B875E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/TESTING-111827?style=for-the-badge&logo=bugcrowd&logoColor=B875E5">
+
+<br><br>
+
+`● SYSTEM ONLINE` &nbsp;&nbsp; `PLAYER: JOSS1203`
 
 </div>
 
 ---
 
-<h2 align="center">PLAYER PROFILE</h2>
+<h2 align="center">👾 PLAYER PROFILE</h2>
 
 <div align="center">
 
 ### Hi, I'm Jocelyn 👋
 
-I'm a software developer interested in understanding  
-**how systems work behind the scenes.**
-
-Backend Development &nbsp; • &nbsp;
-Artificial Intelligence &nbsp; • &nbsp;
-Networks & Systems
-
-Software Testing &nbsp; • &nbsp;
-Debugging & Error Analysis
+I'm a software developer who enjoys understanding  
+**what happens behind the scenes.**
 
 <br>
 
-**Find the bug. Understand the system. Build it better.**
+<table>
+<tr>
+
+<td align="center" width="190">
+  <b>🐛 DEBUGGING</b><br>
+  <sub>Finding the problem</sub>
+</td>
+
+<td align="center" width="190">
+  <b>🖥️ BACKEND</b><br>
+  <sub>Building the logic</sub>
+</td>
+
+<td align="center" width="190">
+  <b>🌐 NETWORKS</b><br>
+  <sub>Connecting systems</sub>
+</td>
+
+<td align="center" width="190">
+  <b>🤖 AI</b><br>
+  <sub>Exploring intelligence</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### `> FIND THE BUG_`
+
+**Understand the system. Fix the problem. Build it better.**
 
 </div>
+
+---
+
+<h2 align="center">🎯 PLAYER SPECIALIZATION</h2>
 
 ---
 
