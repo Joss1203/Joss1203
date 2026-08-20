@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👾 JOCELYN
+# JOCELYN
 
-### `PLAYER 01 // SOFTWARE DEVELOPER`
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=B875E5&center=true&vCenter=true&width=850&lines=%3E+Backend+Development_;%3E+Artificial+Intelligence_;%3E+Networks+%26+Systems_;%3E+Software+Testing+%26+Debugging_;%3E+Finding+bugs+before+they+find+me..._"
@@ -23,8 +22,6 @@
 </div>
 
 ---
-
-<h2 align="center">👾 PLAYER PROFILE</h2>
 
 <div align="center">
 
