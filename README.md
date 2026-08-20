@@ -18,7 +18,7 @@
 
 <br><br>
 
-`● SYSTEM ONLINE` &nbsp;&nbsp; `PLAYER: JOSS1203`
+
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-### Hi, I'm Jocelyn 👋
+### Hi, I'm Jocelyn 
 
 I'm a software developer who enjoys understanding  
 **what happens behind the scenes.**
@@ -69,9 +69,6 @@ I'm a software developer who enjoys understanding
 
 </div>
 
----
-
-<h2 align="center">🎯 PLAYER SPECIALIZATION</h2>
 
 ---
 
