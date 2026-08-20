@@ -216,9 +216,17 @@ VIEW PROJECT
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Joss1203&theme=midnight-purple&hide_border=true&background=00000000"
-    alt="GitHub Streak"
+    src="https://komarev.com/ghpvc/?username=Joss1203&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"
+    alt="Profile views"
   />
+</p>
+
+<p align="center">
+  <b>🐛 Debugging</b> •
+  <b>🖥️ Backend</b> •
+  <b>🌐 Networks</b> •
+  <b>🤖 AI</b> •
+  <b>🧪 Testing</b>
 </p>
 
 ---
